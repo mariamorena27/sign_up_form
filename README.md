@@ -18,9 +18,7 @@
 
 <br>
 
-## 🚀 Starting
-
-<h4>To start the project, just open the file `index.html` in your preferred browser.</h4>
+➡️ &nbsp;&nbsp;[Project access](https://mariamorena27.github.io/sign_up_form/)
 
 ---
 
