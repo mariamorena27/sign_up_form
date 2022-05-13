@@ -1,6 +1,6 @@
 # Sign Up Form
 
-<h2>Sign Up page using HTML and CSS</h2>
+<h3>Sign Up page using HTML and CSS</h3>
 
 ### Web Version
 
@@ -13,15 +13,15 @@
 ### Mobile Version
 
 <p>
-<img src="assets/mobile_version.png" alt="Mobile Version" width="450px">
+<img src="assets/mobile_version.png" alt="Mobile Version" width="375px">
 </p>
 
 <br>
 
 ## 🚀 Starting
 
-<h3>To start the project, just open the file `index.html` in your preferred browser.</h3>
+<h4>To start the project, just open the file `index.html` in your preferred browser.</h4>
 
 ---
 
-Coded by Maria Morena!
+<b>Coded by Maria Morena!</b>
