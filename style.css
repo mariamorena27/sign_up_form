@@ -39,6 +39,11 @@ main .social-media {
 
 main .social-media a {
   text-decoration: none;
+  transition: .3s;
+}
+
+main .social-media a:hover {
+  transform: translateY(-8px);
 }
 
 main .social-media img {
